@@ -1,5 +1,7 @@
 # Chicago Atlas
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4065b0fae5ca4a59b76f74b4fb113ec4)](https://www.codacy.com/app/PartTimeLegend/chicago-atlas?utm_source=github.com&utm_medium=referral&utm_content=PartTimeLegend/chicago-atlas&utm_campaign=badger)
+
 The Chicago Health Atlas is a place where you can view citywide information about health trends and take action near you to improve your own health.
 
 ## Installation
